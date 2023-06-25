@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagementSystem(POS)", "GymManagementSystem(POS)\GymManagementSystem(POS).csproj", "{3DAC4101-9464-4685-AA16-B58BADD55D9D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{F25A991C-248F-4DB6-BA74-54E36CF8B102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAC4101-9464-4685-AA16-B58BADD55D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAC4101-9464-4685-AA16-B58BADD55D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAC4101-9464-4685-AA16-B58BADD55D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAC4101-9464-4685-AA16-B58BADD55D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25A991C-248F-4DB6-BA74-54E36CF8B102}.Debug|Any CPU.ActiveCfg = Debug
+		{F25A991C-248F-4DB6-BA74-54E36CF8B102}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E39DC9-BB70-4DBC-B2C1-10627E197313}
+	EndGlobalSection
+EndGlobal
